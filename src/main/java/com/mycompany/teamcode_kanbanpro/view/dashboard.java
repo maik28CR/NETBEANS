@@ -279,7 +279,7 @@ public class dashboard extends javax.swing.JPanel {
 
         jButton2.setBackground(new java.awt.Color(204, 204, 204));
         jButton2.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N
-        jButton2.setText("Proyecto A");
+        jButton2.setText("Proyecto 1");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
@@ -288,7 +288,7 @@ public class dashboard extends javax.swing.JPanel {
 
         jButton1.setBackground(new java.awt.Color(204, 204, 204));
         jButton1.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N
-        jButton1.setText("Proyecto B");
+        jButton1.setText("Proyecto 2");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
